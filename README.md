@@ -20,6 +20,11 @@ want to use the package, just run:
 pip install --upgrade embeddify-python
 ```
 
+Install from git:
+```sh
+pip install "git+https://github.com/embeddify/embeddify-node.git#egg=embeddify-node"
+```
+
 Install from source with:
 
 ```sh
